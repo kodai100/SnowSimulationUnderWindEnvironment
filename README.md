@@ -1,16 +1,9 @@
-# 2D MPM Snow Simulation
-This is a multi-platform implementation of material point method for snow simulation.
+# Snow Simulation Under Wind Environment
 
-Please check release for use application (built as windows 32bit exe). 
+A Method for Generating Animation of Snow under Wind Environment with Material Point Method and Lattice Boltzmann Method.
 
 ## Snowman
-![snowman](https://github.com/kodai100/MPMSnowSimulation2D/blob/master/Thumbnails/snowman.gif)
-
-## Snowball Contact
-![snowman](https://github.com/kodai100/MPMSnowSimulation2D/blob/master/Thumbnails/contact.gif)
-
-## Snowball Smash
-![snowman](https://github.com/kodai100/MPMSnowSimulation2D/blob/master/Thumbnails/smash.gif)
+![snowman](https://github.com/kodai100/SnowSimulationUnderWindEnvironment/blob/master/Thumbnails/main.png)
 
 # Dependencies
 - GLFW3
